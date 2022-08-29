@@ -6,6 +6,12 @@
 - ⚡ "Em mundo de T.I só suporta quem é suporte"
 
 
+<br>
+<div align="center">
+  <img width="70%" src="https://github.com/danielletrind/danielletrind/blob/main/stgif.gif">
+</div>
+<br>
+
 
 <div align="center">
   <a href="https://github.com/danielletrind">
