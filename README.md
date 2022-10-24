@@ -1,10 +1,13 @@
-### Danielle Trindade 👋
 
+
+
+<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
+<h1 align="center"> MY NAME IS DANIELLE TRINDADE</h1>
+<br>
 
 - 🔭 Estudo na ETEC MCM
 - 🌱 Curso T.I
 - ⚡ "Em mundo de T.I só suporta quem é suporte"
-
 
 <br>
 <div align="center">
