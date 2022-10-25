@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">⚡WELCOME TO MY PROFILE!⚡</h2>
+<h2 align="center">⚡WELCOME TO MY PROFILE!!⚡</h2>
 <h1 align="center"> MY NAME IS DANIELLE TRINDADE</h1>
 <br>
 
